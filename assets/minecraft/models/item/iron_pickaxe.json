@@ -4,7 +4,7 @@
         "layer0": "minecraft:item/iron_pickaxe"
     },
     "overrides": [
-        {"predicate": {"custom_model_data":102211}, "model": "item/hammer"}
+        {"predicate": {"custom_model_data":102211}, "model": "item/hammer"},
         {"predicate": { "custom_model_data": 311001}, "model": "tooltrims:item/trims/iron_pickaxe_linear_amethyst"},
         {"predicate": { "custom_model_data": 311002}, "model": "tooltrims:item/trims/iron_pickaxe_linear_copper"},
         {"predicate": { "custom_model_data": 311003}, "model": "tooltrims:item/trims/iron_pickaxe_linear_diamond"},
