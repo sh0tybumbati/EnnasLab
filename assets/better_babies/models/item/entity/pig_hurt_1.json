@@ -1,0 +1,6 @@
+{
+	"parent": "better_babies:item/entity/template_pig_dead_1",
+	"textures": {
+	  "texture": "better_babies:item/entity/pig/pig_hurt"
+	}
+}

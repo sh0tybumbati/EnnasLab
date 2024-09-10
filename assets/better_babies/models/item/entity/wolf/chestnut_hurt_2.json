@@ -1,0 +1,6 @@
+{
+	"parent": "better_babies:item/entity/template_wolf_dead_2",
+	"textures": {
+	  "texture": "better_babies:item/entity/wolf/wolf_chestnut_hurt"
+	}
+}

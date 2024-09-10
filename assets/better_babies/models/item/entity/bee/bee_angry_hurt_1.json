@@ -1,0 +1,6 @@
+{
+	"parent": "better_babies:item/entity/template_bee_dead_1",
+	"textures": {
+	  "texture": "better_babies:item/entity/bee/bee_angry_hurt"
+	}
+}

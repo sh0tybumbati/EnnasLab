@@ -1,0 +1,6 @@
+{
+	"parent": "better_babies:item/entity/template_trader_llama_dead_1",
+	"textures": {
+	  "texture": "better_babies:item/entity/llama/white_hurt"
+	}
+}

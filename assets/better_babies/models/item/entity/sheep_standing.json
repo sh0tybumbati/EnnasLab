@@ -1,0 +1,7 @@
+{
+	"parent": "better_babies:item/entity/template_sheep",
+	"textures": {
+	  "texture": "better_babies:item/entity/sheep/sheep",
+	  "texture_armor": "better_babies:item/entity/sheep/sheep_fur"
+	}
+}

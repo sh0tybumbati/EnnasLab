@@ -1,0 +1,6 @@
+{
+	"parent": "better_babies:item/entity/template_cow_dead_3",
+	"textures": {
+	  "texture": "better_babies:item/entity/cow/brown_mooshroom_hurt"
+	}
+}

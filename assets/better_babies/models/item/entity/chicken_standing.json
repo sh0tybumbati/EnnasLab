@@ -1,0 +1,6 @@
+{
+	"parent": "better_babies:item/entity/template_chicken",
+	"textures": {
+	  "texture": "better_babies:item/entity/chicken/chicken"
+	}
+}

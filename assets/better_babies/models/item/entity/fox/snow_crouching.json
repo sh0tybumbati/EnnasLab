@@ -1,0 +1,6 @@
+{
+	"parent": "better_babies:item/entity/template_fox_crouching",
+	"textures": {
+	  "texture": "better_babies:item/entity/fox/snow_fox"
+	}
+}

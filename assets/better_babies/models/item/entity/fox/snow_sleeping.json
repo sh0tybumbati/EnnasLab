@@ -1,0 +1,6 @@
+{
+	"parent": "better_babies:item/entity/template_fox_sleeping",
+	"textures": {
+	  "texture": "better_babies:item/entity/fox/snow_fox_sleeping"
+	}
+}

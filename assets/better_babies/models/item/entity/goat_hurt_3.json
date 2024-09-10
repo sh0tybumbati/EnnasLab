@@ -1,0 +1,6 @@
+{
+	"parent": "better_babies:item/entity/template_goat_dead_3",
+	"textures": {
+	  "texture": "better_babies:item/entity/goat/goat_hurt"
+	}
+}

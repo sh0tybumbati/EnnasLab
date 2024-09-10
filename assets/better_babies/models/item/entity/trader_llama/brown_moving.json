@@ -1,0 +1,14 @@
+{
+	"parent": "better_babies:item/entity/template_trader_llama_moving",
+	"textures": {
+	  "texture_body": "better_babies:item/entity/llama/brown",
+	  "texture_frame_0": "better_babies:item/entity/llama/brown_animation/frame_0",
+	  "texture_frame_1": "better_babies:item/entity/llama/brown_animation/frame_1",
+	  "texture_frame_2": "better_babies:item/entity/llama/brown_animation/frame_2",
+	  "texture_frame_3": "better_babies:item/entity/llama/brown_animation/frame_3",
+	  "texture_frame_4": "better_babies:item/entity/llama/brown_animation/frame_4",
+	  "texture_frame_5": "better_babies:item/entity/llama/brown_animation/frame_5",
+	  "texture_frame_6": "better_babies:item/entity/llama/brown_animation/frame_6",
+	  "texture_frame_7": "better_babies:item/entity/llama/brown_animation/frame_7"
+	}
+}

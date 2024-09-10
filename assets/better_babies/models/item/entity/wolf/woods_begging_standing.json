@@ -1,0 +1,6 @@
+{
+	"parent": "better_babies:item/entity/template_wolf_begging",
+	"textures": {
+	  "texture": "better_babies:item/entity/wolf/wolf_woods_tame"
+	}
+}

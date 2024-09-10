@@ -1,0 +1,18 @@
+{
+    "pack.better_babies.name":"Better Babies",
+    "Better Babies":"Better Babies",
+    "morecreativetabs.better_babies":"Better Babies",
+
+    "entity.better_babies.baby_bee":"Bee Larva",
+    "entity.better_babies.baby_chicken":"Chick",
+    "entity.better_babies.baby_cow":"Calf",
+    "entity.better_babies.baby_fox":"Kit",
+    "entity.better_babies.baby_goat":"Kid",
+    "entity.better_babies.baby_llama":"Cria",
+    "entity.better_babies.baby_mooshroom":"Mooshroom Calf",
+    "entity.better_babies.baby_pig":"Piglet",
+    "entity.better_babies.baby_sheep":"Lamb",
+    "entity.better_babies.baby_trader_llama":"Trader Cria",
+    "entity.better_babies.baby_turtle":"Turtle Hatchling",
+    "entity.better_babies.baby_wolf":"Puppy"
+}
