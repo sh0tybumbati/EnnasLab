@@ -1,0 +1,14 @@
+{
+    "variants": {
+        "hanging=true":	[
+				{ "model": "block/lantern/lantern_hanging", "weight": 4},
+				{ "model": "block/lantern/lantern_hanging_1", "weight": 1}
+	],
+        "hanging=false": [ 	
+				{ "model": "block/lantern/lantern"},
+				{ "model": "block/lantern/lantern", "y": 90},
+				{ "model": "block/lantern/lantern", "y": 180},
+				{ "model": "block/lantern/lantern", "y": 270}
+	]
+  }
+}
